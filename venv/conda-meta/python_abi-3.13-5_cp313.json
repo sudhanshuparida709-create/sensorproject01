@@ -1,0 +1,31 @@
+{
+  "name": "python_abi",
+  "version": "3.13",
+  "build": "5_cp313",
+  "build_number": 5,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "subdir": "osx-arm64",
+  "fn": "python_abi-3.13-5_cp313.conda",
+  "md5": "bbc398ad77a58c4be50d7c2588a7c6e8",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/python_abi-3.13-5_cp313.conda",
+  "sha256": "d1430b541c328c7fe4ef4fb47600ebf0b818db44a26ad0161f10e505b6adbf8b",
+  "depends": [],
+  "constrains": [
+    "python 3.13.* *_cp313"
+  ],
+  "license": "BSD-3-Clause",
+  "timestamp": 1790773292000,
+  "size": 5676,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/python_abi-3.13-5_cp313.conda",
+  "extracted_package_dir": "/opt/anaconda3/pkgs/python_abi-3.13-5_cp313",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "/opt/anaconda3/pkgs/python_abi-3.13-5_cp313",
+    "type": 1
+  }
+}
